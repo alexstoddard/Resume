@@ -1,4 +1,4 @@
 Resume
 ======
 
-Personal resume for James Stoddard
+Personal resume for Alex Stoddard
